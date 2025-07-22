@@ -23,7 +23,7 @@
 </div>
 
 
-## 📬 Contact
+## Contact
 
 - 📧 Email: libeiw127@gmail.com
 
