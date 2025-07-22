@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Libei 👋</h1>
 
 <p align="center">
-🎓 Math MSc at UCPH · Builds practical data & ML solutions · Learning by doing 🧠  
+Welcome to my github homepage!  
 <div align="center" style="max-width: 800px; background-color: #f5f5f5; border-radius: 12px; padding: 12px 16px; margin: 0 auto;">
 
   <p>
