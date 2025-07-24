@@ -78,8 +78,8 @@
   <tr>
     <td colspan="2" align="center">
       <h3>
-        <a href="https://github.com/Beatrice-127/olist-rfm-segmentation">
-          Olist RFM Customer Segmentation
+        <a href="https://github.com/Beatrice-127/ecommerce-rfm-customer-segmentation">
+          Ecommerce RFM Customer Segmentation
         </a>
       </h3>
     </td>
