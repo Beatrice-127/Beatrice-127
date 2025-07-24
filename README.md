@@ -49,6 +49,39 @@
 
 <hr>
 
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>
+        <a href="https://github.com/Beatrice-127/ecommerce-data-ETL/tree/main">
+          E-Commerce Data ETL – Azure Pipeline Project
+        </a>
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Beatrice-127/ecommerce-data-ETL/main/images/ecomm_engineer.png" alt="ETL Pipeline" width="90%">
+    </td>
+    <td width="50%">
+      <p>
+        A production-style ETL pipeline that ingests and transforms <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Olist’s Brazilian e-commerce dataset</a> using <strong>Azure Data Factory</strong>, <strong>Databricks (PySpark)</strong>, and the <strong>Medallion Architecture</strong>.<br><br>
+        Cleaned and enriched data is stored in <strong>ADLS Gen2</strong> and queried via <strong>Azure Synapse</strong>, enabling downstream analytics for BI dashboards and customer segmentation.<br><br>
+        <strong>Tech Stack:
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apache-spark&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Medallion%20Architecture-blue?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 
 
