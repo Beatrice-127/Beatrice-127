@@ -5,14 +5,6 @@
   Here you'll find some of my projects where I try to make sense of everyday life using analytical tools and creativity.
 </p>
 
-<h2 align="center">Find Me Online</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/libei-wang">LinkedIn</a> • 
-  <a href="https://public.tableau.com/app/profile/libei.wang/vizzes">Tableau</a>
-</p>
-
-
 <h2 align="center"> Pinned Projects </h2>
 
 <table align="center">
@@ -82,6 +74,35 @@
 </table>
 
 <hr>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>
+        <a href="https://github.com/Beatrice-127/olist-rfm-segmentation">
+          Olist RFM Customer Segmentation
+        </a>
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>
+        This project performs customer segmentation on the Olist e-commerce dataset using the <strong>RFM framework</strong> (Recency, Frequency, Monetary).<br><br>
+        The analysis is conducted entirely in <strong>PostgreSQL</strong>, with <strong>Python</strong> used for data ingestion and preprocessing.<br><br>
+        The data comes from the silver layer of my <a href="https://github.com/Beatrice-127/ecommerce-data-ETL">Olist Data Engineering Pipeline</a>, where I built an end-to-end ETL process using Azure and transformed raw data into analysis-ready tables.<br><br>
+        <strong>Tech Stack:
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RFM%20Segmentation-teal?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 
 
@@ -106,6 +127,13 @@
   </p>
 
 </div>
+
+<h2 align="center">Find Me Online</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/libei-wang">LinkedIn</a> • 
+  <a href="https://public.tableau.com/app/profile/libei.wang/vizzes">Tableau</a>
+</p>
 
 
 <h2 align="center">📬 Contact Me</h2>
