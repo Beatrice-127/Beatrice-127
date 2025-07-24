@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Libei 👋</h1>
 
 <p align="center">
-Welcome to my github homepage!  
+Here you can see some of my work trying to understanding everyday life using Data & Mathematics!
 <div align="center" style="max-width: 800px; background-color: #f5f5f5; border-radius: 12px; padding: 12px 16px; margin: 0 auto;">
 
   <p>
