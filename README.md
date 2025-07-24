@@ -5,14 +5,54 @@
   Here you'll find some of my projects where I try to make sense of everyday life using analytical tools and creativity.
 </p>
 
-<h2 align="center">🔗 Find Me Online</h2>
+<h2 align="center">Find Me Online</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/libei-wang">LinkedIn</a> • 
   <a href="https://public.tableau.com/app/profile/libei.wang/vizzes">Tableau</a>
 </p>
 
-<h2 align="center">🧰 Tech Stack</h2>
+
+<h2 align="center"> Pinned Projects </h2>
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>
+        <a href="https://github.com/Beatrice-127/loan-default-prediction/tree/main">
+          Loan Default Prediction – Credit Risk Management
+        </a>
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Beatrice-127/loan-default-prediction/main/images/riskmanagement_workflow.png" alt="Workflow Diagram" width="90%">
+    </td>
+    <td width="50%">
+      <p>
+        A credit risk modeling project using <strong>XGBoost</strong> to predict loan default probability on over 1.2 million credit records.<br><br>
+        Includes EDA, feature engineering (IV/PSI), and model evaluation with ROC and confusion matrix.<br><br>
+        The project explores the trade-off between <strong>recall and precision</strong>, and the real-world consequences of model decisions in financial services.<br><br>
+        <strong>Tech Stack:
+        <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC0000?style=flat-square&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
+</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+
+
+
+<h2 align="center">Tech Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
