@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/Beatrice-127/customer-behavior-visualizations/blob/main/screenshots/01_overview.png" width="90%">
+      <img src="https://github.com/Beatrice-127/customer-behavior-visualizations/blob/main/screenshots/03_cohort.png" width="90%">
     </td>
     <td width="50%">
       <p>
