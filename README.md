@@ -104,6 +104,39 @@
 
 <hr>
 
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>
+        <a href="https://github.com/Beatrice-127/customer-engagement-analysis">
+          Customer Engagement Analysis – SQL + Tableau Dashboards
+        </a>
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Beatrice-127/customer-engagement-analysis/main/screenshots/01_overview.png" alt="Overview Dashboard" width="90%">
+    </td>
+    <td width="50%">
+      <p>
+        A full-cycle analytics project based on real user activity from an online learning platform (19,332 users across 10 months), built using SQL and Tableau.<br><br>
+        Includes user engagement tracking, cohort retention, subscription conversion, and career track analysis. Data was processed using structured SQL queries and materialized into reporting tables for Tableau Public dashboards.<br><br>
+        Emphasis on business logic design, funnel construction, and behavioral segmentation.<br><br>
+        <strong>Tech Stack:</strong>
+        <p align="left">
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ETL-6C757D?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=flat-square&logo=datadog&logoColor=white"/>
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 
 
 <h2 align="center">Tech Stack</h2>
