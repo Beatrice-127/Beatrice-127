@@ -108,7 +108,7 @@
   <tr>
     <td colspan="2" align="center">
       <h3>
-        <a href="https://github.com/Beatrice-127/customer-engagement-analysis">
+        <a href="https://github.com/Beatrice-127/customer-behavior-visualizations">
           Customer Engagement Analysis – SQL + Tableau Dashboards
         </a>
       </h3>
@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/Beatrice-127/customer-engagement-analysis/main/screenshots/01_overview.png" alt="Overview Dashboard" width="90%">
+      <img src="https://github.com/Beatrice-127/customer-behavior-visualizations/blob/main/screenshots/01_overview.png" width="90%">
     </td>
     <td width="50%">
       <p>
