@@ -123,6 +123,10 @@
         A full-cycle analytics project based on real user activity from an online learning platform (19,332 users across 10 months), built using SQL and Tableau.<br><br>
         Includes user engagement tracking, cohort retention, subscription conversion, and career track analysis. Data was processed using structured SQL queries and materialized into reporting tables for Tableau Public dashboards.<br><br>
         Emphasis on business logic design, funnel construction, and behavioral segmentation.<br><br>
+        <strong>Dashboards:</strong> 
+        <a href="https://public.tableau.com/app/profile/libei.wang/viz/learning_platform_customer_behavior/Overview?publish=yes" target="_blank">
+          View on Tableau Public
+        </a><br><br>
         <strong>Tech Stack:</strong>
         <p align="left">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
